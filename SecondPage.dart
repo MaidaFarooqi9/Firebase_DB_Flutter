@@ -1,26 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -89,7 +67,9 @@ class _SecondPageState extends State<SecondPage> {
 
 
 
-/*    return Scaffold(
+/* if you want to add tabBar
+
+return Scaffold(
 
       appBar: AppBar(title:Text( 'Furniture Store')),
 

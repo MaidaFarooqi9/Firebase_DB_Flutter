@@ -31,9 +31,7 @@ dev_dependencies:
   cloud_firestore: ^0.13.0+1
   provider: ^3.2.0
   flutter_spinkit: "^4.1.1"
-  #geoflutterfire: "^2.0.2"
-  #location: 1.4.1
-  #google_maps_flutter: ^0.2.0
+ 
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

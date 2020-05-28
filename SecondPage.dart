@@ -69,23 +69,6 @@ class _SecondPageState extends State<SecondPage> {
 
 /* if you want to add tabBar
 
-return Scaffold(
-
-      appBar: AppBar(title:Text( 'Furniture Store')),
-
-      body: SafeArea(
-        child:Column(
-          children: <Widget>[
-
-
-            Text("It's a furniture app"),
-          ],
-        ),
-      ),
-
-    ); */
-
-/*
 return DefaultTabController(length: 3,child: Scaffold(
   appBar: AppBar(
     bottom: new TabBar(tabs:
